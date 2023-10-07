@@ -1,5 +1,5 @@
 # 💁 About Me:
-Hi there! 👋 My name is Meet Pokiya, and I'm a React developer with 4+ years of experience in building responsive and dynamic web applications. I'm passionate about building beautiful and intuitive user interfaces that deliver a seamless user experience.
+Hi there! 👋 My name is Meet Patel, and I'm a React developer with 4+ years of experience in building responsive and dynamic web applications. I'm passionate about building beautiful and intuitive user interfaces that deliver a seamless user experience.
 
 # 👨‍💻 Tech Stack:
 
